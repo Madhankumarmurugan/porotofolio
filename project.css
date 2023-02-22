@@ -1,0 +1,141 @@
+.bgimage-1{
+    height: 100vh;
+    background-image: url(/images\ \(5\).jpeg);
+    background-repeat: no-repeat;
+    position:relative;
+background-size: cover
+}
+.hero-text{
+    position: absolute;
+    top: 30%;
+    left: 0%;
+}
+
+.para1{
+    font-size: 2rem;
+    margin-left: 100px;
+}
+.nav-item:hover{
+    height: 3px;
+position: absolute;
+bottom: 3px solid rgb(75, 75, 75);
+transition: 0.3s;
+}
+.nav-item:hover{
+    width: 50%;
+    border-bottom: 2px;
+}
+
+.bgimag{
+    display: flex;
+}
+.bgimage{
+height: 100vh;
+display: flex
+}
+.row{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+.row{
+    font-size: 40px;
+}
+
+.form-control{
+padding: px;
+margin-left: 0px;
+}
+.button-align{
+    padding-left: 3px;
+    margin-left: 60px;
+}
+.conatact-2{
+    margin-left:300px;
+    background-color: black;
+    color: white;
+text-align: end;
+}
+.main-conten{
+    width: 30ex;
+}
+.prcen-container{
+    width: 100%;
+    background-color: gray;
+}
+.percentage{
+    text-align: end;
+    color: white;
+}
+.MySQL{
+    text-align: end;
+    width:90% ;
+    background-color: red;
+    color: white;
+}
+.webdesign{
+    background-color: blue;
+    width: 80%;
+    text-align: end;
+    color: white;
+}
+.python{
+    background-color: maroon;
+    width: 85%;
+    text-align: end;
+    color: white;
+}
+
+.bootstrap{
+    background-color: green;
+    width: 95%;
+    text-align: end;
+    color: white;
+}
+.cv{
+    margin-left: 100px;
+}
+.myskill{
+    margin-left: 500px;
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+.contactme{
+    margin-left: 500px;
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+.aboutme{
+    margin-left: 300px;
+    background-color: black;
+    color: white;
+}
+.head-1{
+    margin-left: 100px;
+}
+.bgimage{
+width: 100%;
+}
+.mapimage{
+    width: 500px;
+    height: 500px;
+
+}
+.col-lg-4.img
+img{
+    float: right;
+}
+.btn-success{
+    margin-left: 95px;
+}
+.text-center{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    margin-left: 550px;
+}
+span{
+    color: brown;
+}
